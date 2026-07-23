@@ -64,15 +64,15 @@ I'm a Biomedical Engineering graduate with hands-on clinical experience in hospi
 
 ## 📱 Live Website
 
-Visit: `https://yourusername.github.io/malavika-portfolio`
-(Replace `yourusername` with your actual GitHub username)
+Visit: `https://malavika2404.github.io/malavika-portfolio`
+
 
 ## 🔗 Connect With Me
 
 - **Email**: bmalavika970@gmail.com
 - **Phone**: +91 9345659992
 - **LinkedIn**: linkedin.com/in/malavika-balakrishnan-4b095b269
-- **GitHub**: github.com/yourusername
+- **GitHub**: github.com/malavika2404
 
 ## 📍 Location
 
